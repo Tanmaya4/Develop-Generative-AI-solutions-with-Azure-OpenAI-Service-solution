@@ -1,0 +1,1 @@
+# Develop-Generative-AI-solutions-with-Azure-OpenAI-Service-solution
